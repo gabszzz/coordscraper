@@ -25,7 +25,7 @@ yarn add coordscraper
 const { getCoords } = require('coordscraper');
 
 (async () => {
-  const coords = await getCoords('Abbey Roads, Londres') // returns { lat: '51.5370926', lon: '-0.1833791' }
+  const coords = await getCoords('Abbey Road, Londres') // returns { lat: '51.5370926', lon: '-0.1833791' }
 })();
 ```
 
