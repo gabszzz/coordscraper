@@ -1,0 +1,22 @@
+{
+  "name": "coordscraper",
+  "description": "CoordScraper is a simple web scraping library that uses Google Maps to resolve addresses in coordinates.",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Gabriel Teodoro",
+  "license": "MIT",
+  "keywords": [
+    "coordinates",
+    "google maps",
+    "web scraping"
+  ],
+  "scripts": {
+    "test": "jest src/tests"
+  },
+  "dependencies": {
+    "axios": "^0.20.0"
+  },
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}

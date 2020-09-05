@@ -1,0 +1,6 @@
+{
+  "baseURL": "https://www.google.com/maps/place/",
+  "errors": [
+    { "ADDR_NOT_RESOLVED": "Address could not be resolved." }
+  ]
+}
