@@ -1,4 +1,4 @@
-const { baseURL } = require('../config.json')
+const { baseURL } = require('../config')
 
 /**
  * This function applies the Google Maps URL pattern

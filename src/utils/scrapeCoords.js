@@ -1,4 +1,4 @@
-const { errors } = require('../config.json')
+const { errors } = require('../config')
 
 /**
  * This function scrapes the coordinates contained in the data.
